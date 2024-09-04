@@ -1,4 +1,4 @@
-# 4-Motor Remote-Controlled Car with Obstacle Detection
+# 4 Motor Remote-Controlled Car with Obstacle Detection
 
 In this article, I will briefly discuss the details of a car that can be controlled via remote control using 4 DC motors. For more details, please refer to the **"Arduino_Details"** folder.
 
