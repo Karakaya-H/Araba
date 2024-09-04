@@ -26,3 +26,4 @@ All the components used in the project are listed here:
 
 >Note: The circuit diagram has been prepared using 'Fritzing'. Since the Fritzing program does not include a battery, the circuit diagram does not show a battery.
 
+![Circuit_Diagram](https://github.com/user-attachments/assets/7445975a-5057-44d0-843f-7bc48d250bda)
