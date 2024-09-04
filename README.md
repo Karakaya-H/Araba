@@ -2,8 +2,6 @@
 
 In this article, I will briefly discuss the details of a car that can be controlled via remote control using 4 DC motors. For more details, please refer to the **"Arduino_Details"** folder.
 
-# Malzeme Listesi
-
 ## Bill of Materials
 
 All the components used in the project are listed here:
